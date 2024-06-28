@@ -36,6 +36,7 @@ Step 3: Demographics
 -	Data Cleaning: Prepare the demographic data for patients included in the genomic dataset.
 -	Annotation: Label patients as either LS carriers or non-LS carriers based on genomic data.
 -	Save Demographics: Export cleaned and annotated demographic data to aou_demog.csv.
+-	Check the notebooks in the supp folder for identifying PMS2CL carriers and removing them from the analysis.
 
 Step 4: Cancer conditions
 •	Main node: 4CPUs, 26GB RAM, 1000 GB Disk
