@@ -2,7 +2,7 @@
 
 This README provides a detailed workflow for analyzing genomic data and electronic health records (EHR) from the "All of Us" Research Program, specifically aimed at assessing the impact of Lynch Syndrome (LS) on cancer risk.
 
-Requirements: 
+Requirements
 •	Apply for Researcher Workbench access at https://workbench.researchallofus.org/login
 •	Complete access for Registered Tier data
 •	Complete the Controlled Tier Training
