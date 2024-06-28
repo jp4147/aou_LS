@@ -6,9 +6,7 @@ Requirements
 
 •	Apply for Researcher Workbench access at https://workbench.researchallofus.org/login
 •	Complete access for Registered Tier data
-
 •	Complete the Controlled Tier Training
-
 •	Use cloud-based Jupyter notebook platform provided by the All of Us Research Workbench.
 •	Pip install openpyxl (other necessary packages are already installed in the platform).
 •	Run the Jupyter notebook codes as described in Step 1 through Step 6 to replicate the experimental results. Step 1 through Step 5 are extracting data from AOU database and Step 6 includes analysis using those data. We provided sample data to run “Step 6 Analysis – demo” locally outside the Workbench.
