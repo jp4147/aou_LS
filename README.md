@@ -5,6 +5,7 @@ This README provides a detailed workflow for analyzing genomic data and electron
 Requirements
 
 •	Apply for Researcher Workbench access at https://workbench.researchallofus.org/login
+
 •	Complete access for Registered Tier data
 •	Complete the Controlled Tier Training
 •	Use cloud-based Jupyter notebook platform provided by the All of Us Research Workbench
